@@ -1,4 +1,4 @@
-# Car Price Analysis Regression Analysis
+# Car Price Analysis Regression Techniques
  
 In recent years, the sale of pre-owned vehicles has emerged as a profitable industry in various global markets. Well-maintained used cars are gaining popularity, often rivaling new ones. The growing appeal of used cars is unsurprising given their affordability and flexibility for both buyers and sellers. 
 
